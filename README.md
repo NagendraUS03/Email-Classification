@@ -13,7 +13,7 @@ Usage
 Dataset
 The model was trained on a diverse dataset of emails, including both spam and non-spam examples. The dataset used for training and evaluation is available here.
 
-Contributing 🤝
+Contributing🤝
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 This repository contains a machine learning-based solution for classifying emails into spam and non-spam categories. The goal is to provide a reliable and efficient method for filtering out unwanted or potentially harmful emails. 
